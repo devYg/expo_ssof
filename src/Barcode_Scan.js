@@ -77,6 +77,7 @@ export default class BarcodeScanner extends React.Component {
       //     <View style={styles.layerBottom} />
       //   </BarCodeScanner>
       // </>
+      
    <View
     style={{
       flex: 1,
